@@ -1,0 +1,5 @@
+<server>
+	<script src="server-scripts/classes.nut" type="server" />
+	<script src="server-scripts/main.nut" type="server" />
+	<script src="server-scripts/monsters.nut" type="server" />
+</server>
